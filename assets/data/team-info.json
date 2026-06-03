@@ -1,0 +1,36 @@
+{
+  "spiderz": "Music City Mega Draft",
+  "siteTitle": "Spiderz Music City 1 Mega Draft - Team 6",
+  "tournamentDate": "July 30th-August 2, 2026 in Nashville, TN",
+  "highlightsTitle": "Important Information",
+  "liveRoster": "https://spiderzsoft.com/rosters/music-city-1-2026/",
+  "rulesPage": "https://spiderzmegadrafts.com/pages/spiderz-mega-draft-softball-tournament-rules",
+  "teamPhoto": "/images/Team-6.jpg",
+  "highlights": [
+    {
+      "label": "Uniform Pickup",
+      "value": "Cane Ridge Tent 2 @ 11:15AM"
+    },
+    {
+      "label": "Play-in Game",
+      "value": "Cane Ridge Field 3 @ 5:20PM"
+    },
+    {
+      "label": "Bracket Starts",
+      "value": "THURSDAY @ 7:40pm (24 Teams will)"
+    },
+    {
+      "label": "Meet & Greet",
+      "value": "WED 8pm-11:30pm @ John Daily's Nashville"
+    }
+  ],
+  "whereWePlayTitle": "WHERE WE PLAY TITLE",
+  "complexes": [
+    {
+      "title": "Cane Ridge Park",
+      "address": "419 Battle Road, Antioch, TN 37013",
+      "image": "/complexes/cane-ridge.png",
+      "mapUrl": "https://maps.app.goo.gl/gABsS4mzy713ZP8fA"
+    }
+  ]
+}
