@@ -1,0 +1,58 @@
+{
+  "depthCharts": {
+    "primary": {
+      "starters": {
+        "P": "Keith Potter",
+        "C": "Ashley Vosilla",
+        "1B": "Christopher Canavan",
+        "2B": "Caleb Baltimore",
+        "3B": "Dalton Gibson",
+        "SS": "Devon Wills",
+        "LF": "William Newsome",
+        "LC": "Jimmie Allen",
+        "RC": "Joel Dyer",
+        "RF": "Elliah Redden"
+      },
+      "bench": {
+        "male": "",
+        "female": ""
+      }
+    },
+    "alternate1": {
+      "starters": {
+        "P": "Caleb Baltimore",
+        "C": "Soup Campbell",
+        "1B": "Ashley Vosilla",
+        "2B": "Dalton Gibson",
+        "3B": "Christopher Canavan",
+        "SS": "Devon Wills",
+        "LF": "William Newsome",
+        "LC": "Jimmie Allen",
+        "RC": "Joel Dyer",
+        "RF": "Jordan Williams"
+      },
+      "bench": {
+        "male": "",
+        "female": ""
+      }
+    },
+    "alternate2": {
+      "starters": {
+        "P": "Dalton Gibson",
+        "C": "Soup Campbell",
+        "1B": "Christopher Canavan",
+        "2B": "Jordan Williams",
+        "3B": "Caleb Baltimore",
+        "SS": "Devon Wills",
+        "LF": "William Newsome",
+        "LC": "Jimmie Allen",
+        "RC": "Joel Dyer",
+        "RF": "Elliah Redden"
+      },
+      "bench": {
+        "male": "",
+        "female": ""
+      }
+    }
+  }
+}

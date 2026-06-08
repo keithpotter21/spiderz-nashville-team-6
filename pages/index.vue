@@ -264,6 +264,9 @@
           </NuxtLink>
         </div>
       </section>
+
+      <LineupBoard />
+      <DepthChartBoard />
     </main>
 
     <footer class="mt-12 border-t border-slate-900/10 bg-slate-950 px-4 py-10 text-sm text-white">
